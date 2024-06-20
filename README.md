@@ -105,7 +105,7 @@
 </div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img src="https://raw.githubusercontent.com/MahendraMedapati27/MahendraMedapati27/output/snake.svg" alt="Snake animation" />
 </p>
 
 
