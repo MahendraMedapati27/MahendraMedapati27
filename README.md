@@ -28,6 +28,20 @@
   </em>
 </p>
 
+<h2 align="center">📝 Recent Medium Articles</h2>
+
+<p align="center">
+  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@mahendramedapti.r469/0">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@mahendramedapati.r469/0" alt="Recent Article 0">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@mahendramedapti.r469/1">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@mahendramedapati.r469/1" alt="Recent Article 0">
+  </a>
+</p>
+
+
 <h2 align="center">🌐 Connect with Me</h2>
 
 | Twitter | LinkedIn | Kaggle | Facebook | Instagram | Medium | HackerRank |
