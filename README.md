@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mahendra Medapati</h1>
-<h3 align="center">IIT(ISM)Dhanbad Civil'27 || Ai and Ml enthusiastic|| DL || Computer Vision || NLP || Web Scrapping || Gen AI</h3>
+<p align="center">
+  <img src="https://static.wixstatic.com/media/44ba08_0c3eb01664304dda86e0c9e11a5a4aef~mv2.gif" style="width: 100%; max-width: 800px;">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendramedapati27&label=Profile%20views&color=0e75b6&style=flat" alt="mahendramedapati27" /> </p>
+<h1 align="center">Hi 👋, I'm Mahendra Medapati</h1>
+<h3 align="center">IIT(ISM)Dhanbad Civil'27 || AI and ML Enthusiast || Deep Learning || Computer Vision || NLP || Web Scraping || General AI</h3>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahendramedapati27" alt="mahendramedapati27" /></a> </p>
 
