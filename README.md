@@ -37,7 +37,12 @@
 </p>
 <p align="center">
   <a href="https://github-readme-medium-recent-article.vercel.app/medium/@mahendramedapti.r469/1">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@mahendramedapati.r469/1" alt="Recent Article 0">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@mahendramedapati.r469/1" alt="Recent Article 1">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@mahendramedapti.r469/2">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@mahendramedapati.r469/2" alt="Recent Article 2">
   </a>
 </p>
 
